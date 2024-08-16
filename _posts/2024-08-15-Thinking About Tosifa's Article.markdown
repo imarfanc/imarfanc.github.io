@@ -17,21 +17,21 @@ In any relationship, communication is key. Here are 13 ways to approach correcti
 
 ## 1. LOWER YOUR VOICE
 
-{: .box-warning}
+{: .box-error}
 Don't shout at her, she is not your child. You can correct, yes, but why shouting?
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
 ## 2. DO IT IN LOVE
 
-{: .box-note}
+{: .box-error}
 Correction should be done in love. If done in any other way, it turns to criticism and condemnation.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
@@ -53,27 +53,27 @@ Correction and criticism are never the same.
 Husband A criticized while Husband B corrected his wife in love. **STOP CRITICIZING YOUR WIFE**
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
 ## 4. PRAISE HER FOR WHAT IS RIGHT
 
-{: .box-note}
+{: .box-error}
 It will be wrong to correct when it's not well done, when you don't praise when it's well done. Form the habit of praising and appreciating your wife for good deeds.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
 ## 5. DON'T DO IT BEFORE YOUR CHILDREN
 
-{: .box-warning}
+{: .box-error}
 Avoid correcting your wife in the presence of your children. Incessant correction of your wife before your children will make them disrespect her.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
@@ -83,17 +83,17 @@ Avoid correcting your wife in the presence of your children. Incessant correctio
 Avoid correcting your wife in public, it does not show you as a gentleman, and will affect her self-esteem.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
 ## 7. AVOID CORRECTION IN ANGER
 
-{: .box-warning}
+{: .box-error}
 Stop correcting your wife in anger, shouting, ranting, beating and making trouble. Real men don't do that.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
@@ -104,17 +104,17 @@ In your thought of correcting her, you might have been comparing her with other 
 "Don't you see what your friend is doing?" "Can't you learn from our neighbor's wife?" "and so?"
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
 ## 9. AVOID REFERRING TO OLD ISSUES
 
-{: .box-note}
+{: .box-error}
 Avoid referring to issues discussed and settled. Stick to the present issue, discuss like adults and move on.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
@@ -124,7 +124,7 @@ Avoid referring to issues discussed and settled. Stick to the present issue, dis
 "And you call yourself a woman? Virtuous women don't behave like this, you better change before I change you!" This is very wrong, don't do it.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
@@ -135,33 +135,33 @@ Avoid referring to issues discussed and settled. Stick to the present issue, dis
 This is very wrong; you also are not talking like someone that passed through college.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
 ## 12. DO IT IN TIME OF PEACE
 
-{: .box-note}
+{: .box-error}
 Most husbands want to correct in the heat of anger, at the height of misunderstanding, when temper has already hit the roof. That is not the best time to correct, it will yield little or no result.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
 ## 13. GIVE A HELPING HAND
 
-{: .box-success}
+{: .box-error}
 The best way to correct is to lead by example. Step into the kitchen to give a helping hand, don't just sit in front of the television correcting what goes on in the kitchen.
 Wives are doing a great job, appreciate yours and support her to be a better wife and mother.
 
 **Your Response:**
-[Write your thoughts here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
 
 ---
 
-{: .box-note}
+{: .box-error}
 **Final Thought:** If you expect your wife to be an angel in your life, then you should first create a heaven for her.
 
 **Your Overall Response:**
-[Write your overall thoughts and reflections here]
+[You are not going to Read.If you do, you won't React/Respond with a healthy mindest.]
