@@ -1,6 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="color-scheme" content="light dark">
 
   {% capture pagetitle %}
     {%- if page.share-title -%}
@@ -12,8 +13,9 @@
     {%- endif -%}
   {% endcapture %}
 
+  {% assign escaped_site_title = site.title | strip_html | xml_escape %}
   {% capture title %}
-    {%- if site.title and site.title-on-all-pages and (site.title != pagetitle) -%}
+    {%- if site.title and site.title-on-all-pages and pagetitle != escaped_site_title -%}
       {{ pagetitle }} | {{ site.title }}
     {%- else -%}
       {{ pagetitle }}
@@ -113,6 +115,8 @@
       {%- endif -%}
     {%- elsif page.thumbnail-img -%}
       {{ page.thumbnail-img }}
+    {%- elsif site.share-img -%}
+      {{ site.share-img }}
     {%- elsif site.avatar -%}
       {{ site.avatar }}
     {% endif %}

@@ -3,11 +3,10 @@ layout: post
 date:   2024-08-15 22:00:00 -0500
 title:  "Thinking About Tosifa's Article"
 subtitle: Fostering a Loving and Respectful Relationship
-categories: relationships
-tags: [marriage, communication, respect]
-comments: true
-mathjax: true
+share-description: Working through an article on correcting a spouse with love and respect.
+tags: [relationships]
 author: Arfan
+published: false
 ---
 
 {: .box-success}

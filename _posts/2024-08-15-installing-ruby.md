@@ -2,14 +2,10 @@
 layout: post
 date:   2024-08-15 22:00:00 -0500
 title:  "Installing Ruby with rbenv on macOS: A Step-by-Step Guide!"
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
-categories: test
+share-description: How to install rbenv with Homebrew on macOS, then use it to install Ruby and set a global version.
+tags: [guides, programming]
 author: Claude
+redirect_from: /2024-08-15-Installing-Ruby/
 ---
 
 For macOS users, rbenv is a popular and lightweight Ruby version manager. This guide will walk you through the process of installing rbenv, using it to install Ruby, and setting up a global Ruby version.

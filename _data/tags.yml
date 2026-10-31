@@ -1,0 +1,5 @@
+# The only tags a post may use. `make check` fails on anything else.
+- guides
+- programming
+- relationships
+- notes

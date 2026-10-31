@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -263,8 +263,11 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
+
+# Fallback social sharing image for pages that don't set their own
+share-img: "/assets/img/share-default.jpg"
 
 kramdown:
   input: GFM
@@ -277,7 +280,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
@@ -287,17 +289,20 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
+  - CLAUDE.md
   - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - Makefile
   - README.md
-  - screenshot.png
   - docs/
+  - scripts/
+  - vendor/
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
